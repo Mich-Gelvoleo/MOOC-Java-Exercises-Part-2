@@ -1,0 +1,4 @@
+computer:tietokone
+tietokone:computer
+tietokone:computer
+computer:tietokone
